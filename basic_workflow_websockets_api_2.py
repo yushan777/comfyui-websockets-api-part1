@@ -173,6 +173,3 @@ for index, prompt in enumerate(prompt_list):
 
         # Show the final merged image
         merged_image.show()
-
-    # for node_id, image_list in images.items():
-    #     print(f"Node ID: {node_id}, Number of Images: {len(image_list)}")
